@@ -1,4 +1,4 @@
-# CWB Indinity Upgrade to 2023.01 Automation WEB
+# VISA Swagger Pet Store API Test Automation
 
 This repo contains API's test on the swagger-petstore project
  
