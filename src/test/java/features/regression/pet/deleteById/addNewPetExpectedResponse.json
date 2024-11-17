@@ -1,0 +1,18 @@
+{
+  "id": #present,
+  "category": {
+    "id": #present,
+    "name": "#present"
+  },
+  "name": "#present",
+  "photoUrls": [
+    "#present"
+  ],
+  "tags": [
+    {
+      "id": #present,
+      "name": "#present"
+    }
+  ],
+  "status": "#present"
+}

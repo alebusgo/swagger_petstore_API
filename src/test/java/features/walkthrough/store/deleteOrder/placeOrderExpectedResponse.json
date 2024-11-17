@@ -1,0 +1,8 @@
+{
+  "id": #present,
+  "petId": #present,
+  "quantity": #present,
+  "shipDate": "#present",
+  "status": "#present",
+  "complete": #present
+}
