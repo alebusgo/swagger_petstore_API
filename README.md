@@ -62,7 +62,7 @@ The project has a total of 32 tests/gherkin scenarios.
 2. Clone this project locally
  PENDING
     ```git
-        git clone https://gitlab.com/corespaces/core-lifestyle/lifestyle-test/lifestyle-automation-mobile.git
+        git clone https://github.com/alebusgo/swagger_petstore_API.git
     ```
  
 3. Open the project in Intellij IDEA and rebuild it 
