@@ -60,7 +60,6 @@ The project has a total of 32 tests/gherkin scenarios.
         - "Cucumber for Java" from JetBrains plug in 
 
 2. Clone this project locally
- PENDING
     ```git
         git clone https://github.com/alebusgo/swagger_petstore_API.git
     ```
